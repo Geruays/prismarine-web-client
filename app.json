@@ -1,0 +1,7 @@
+{
+  "name": "Prismarine On Heroku",
+  "description": "Run Minecraft On Browser With Heroku nodejs",
+  "repository": "https://github.com/Geruays/prismarine-web-client",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
